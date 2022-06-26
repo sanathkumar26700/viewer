@@ -22,7 +22,7 @@ export const posts = [
     comments: [
       {
         _id: uuid(),
-        username: "shubhamsoni",
+        username: "JackSparrow",
         text: "Interesting",
         votes: {
           upvotedBy: [],
@@ -31,7 +31,7 @@ export const posts = [
       },
       {
         _id: uuid(),
-        username: "sohamshah",
+        username: "ThorTheThunderGod",
         text: "Wow!",
         votes: {
           upvotedBy: [],
@@ -49,12 +49,12 @@ export const posts = [
       likedBy: [],
       dislikedBy: [],
     },
-    username: "shubhamsoni",
+    username: "JackSparrow",
 
     comments: [
       {
         _id: uuid(),
-        username: "shubhamsoni",
+        username: "JackSparrow",
         text: "Interesting",
         votes: {
           upvotedBy: [],
@@ -63,7 +63,7 @@ export const posts = [
       },
       {
         _id: uuid(),
-        username: "sohamshah",
+        username: "ThorTheThunderGod",
         text: "Wow!",
         votes: {
           upvotedBy: [],
